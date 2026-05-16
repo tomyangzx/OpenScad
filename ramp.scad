@@ -5,10 +5,10 @@
 // ========== 参数（单位：mm） ==========
 SLOPE_LENGTH = 200;    // 坡长（斜面长度）20cm
 HEIGHT       = 40;     // 坡高 4cm
-THICKNESS_MAX = 30;    // 最大厚度（后端）3cm
+THICKNESS_MAX = 15;    // 最大厚度（后端）1.5cm
 THICKNESS_MIN = 5;     // 最小厚度（前端）5mm，保证强度
 WIDTH        = 150;    // 坡宽 15cm
-PLATFORM     = 20;     // 坡顶平台长度 2cm
+PLATFORM     = 10;     // 坡顶平台长度 1cm
 CHAMFER      = 3;      // 倒角大小 3mm
 
 // ========== 派生值 ==========
