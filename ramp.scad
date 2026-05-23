@@ -3,11 +3,11 @@
 // 特点：渐变厚度设计，节约材料；添加倒角，方便机器人上下
 
 // ========== 参数（单位：mm） ==========
-SLOPE_LENGTH = 190;    // 坡长（斜面长度）19cm
-HEIGHT       = 40;     // 坡高 4cm
-THICKNESS_MAX = 15;    // 最大厚度（后端）1.5cm
+SLOPE_LENGTH = 200;    // 坡长（斜面长度）20cm
+HEIGHT       = 25;     // 坡高 2.5cm
+THICKNESS_MAX = 8;     // 最大厚度（后端）1.0cm
 THICKNESS_MIN = 5;     // 最小厚度（前端）5mm，保证强度
-WIDTH        = 225;    // 坡宽 22.5cm
+WIDTH        = 250;    // 坡宽 25cm
 PLATFORM     = 10;     // 坡顶平台长度 1cm
 CHAMFER      = 3;      // 倒角大小 3mm
 
